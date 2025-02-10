@@ -1,0 +1,1 @@
+export enum Shift{Morning=1, Day}

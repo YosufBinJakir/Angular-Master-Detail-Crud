@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|d:\\githubupload\\angular1\\clientandserver\\masterdetailcrudapi\\masterdetailcrudapi\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|solutionrelative:masterdetailcrudapi\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|d:\\githubupload\\angular1\\clientandserver\\masterdetailcrudapi\\masterdetailcrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|solutionrelative:masterdetailcrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|d:\\githubupload\\angular1\\clientandserver\\masterdetailcrudapi\\masterdetailcrudapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|solutionrelative:masterdetailcrudapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/yousufDb/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/yousufDb/True/SqlTable/dbo.Results.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|d:\\githubupload\\angular1\\clientandserver\\masterdetailcrudapi\\masterdetailcrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|solutionrelative:masterdetailcrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|d:\\githubupload\\angular1\\clientandserver\\masterdetailcrudapi\\masterdetailcrudapi\\migrations\\20241029162007_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|solutionrelative:masterdetailcrudapi\\migrations\\20241029162007_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|d:\\githubupload\\angular1\\clientandserver\\masterdetailcrudapi\\masterdetailcrudapi\\viewmodels\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34CC4A7-A76C-48A0-8B36-74F9B5F04F4C}|MasterDetailCrudApi\\MasterDetailCrudApi.csproj|solutionrelative:masterdetailcrudapi\\viewmodels\\imageuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MasterDetailCrudApi\\appsettings.json",
+              "ToolTip": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\appsettings.json",
+              "RelativeToolTip": "MasterDetailCrudApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T20:26:47.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\Program.cs",
+              "RelativeDocumentMoniker": "MasterDetailCrudApi\\Program.cs",
+              "ToolTip": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\Program.cs",
+              "RelativeToolTip": "MasterDetailCrudApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:38:15.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Results.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/yousufDb/True/SqlTable/dbo.Results.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/yousufDb/True/SqlTable/dbo.Results.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T05:48:07.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/yousufDb/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/yousufDb/True/SqlTable/dbo.Students.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T05:46:53.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241029162007_InitialCreate.cs",
+              "DocumentMoniker": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\Migrations\\20241029162007_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MasterDetailCrudApi\\Migrations\\20241029162007_InitialCreate.cs",
+              "ToolTip": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\Migrations\\20241029162007_InitialCreate.cs",
+              "RelativeToolTip": "MasterDetailCrudApi\\Migrations\\20241029162007_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:20:07.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "MasterDetailCrudApi\\Models\\DbModel.cs",
+              "ToolTip": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\Models\\DbModel.cs",
+              "RelativeToolTip": "MasterDetailCrudApi\\Models\\DbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:10:35.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageUploadResponse.cs",
+              "DocumentMoniker": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\ViewModels\\ImageUploadResponse.cs",
+              "RelativeDocumentMoniker": "MasterDetailCrudApi\\ViewModels\\ImageUploadResponse.cs",
+              "ToolTip": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\ViewModels\\ImageUploadResponse.cs",
+              "RelativeToolTip": "MasterDetailCrudApi\\ViewModels\\ImageUploadResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:03:02.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MasterDetailCrudApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\GitHubUpload\\Angular1\\ClientAndServer\\MasterDetailCrudApi\\MasterDetailCrudApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "MasterDetailCrudApi\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:02:24.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

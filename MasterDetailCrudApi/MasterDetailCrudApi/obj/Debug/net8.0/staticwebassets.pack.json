@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Evidence 9\\MasterDetailCrudApi\\MasterDetailCrudApi\\wwwroot\\Pictures\\bjhiplyy.png",
+      "PackagePath": "staticwebassets\\Pictures\\bjhiplyy.png"
+    },
+    {
+      "Id": "D:\\Evidence 9\\MasterDetailCrudApi\\MasterDetailCrudApi\\wwwroot\\Pictures\\dk3kk33u.png",
+      "PackagePath": "staticwebassets\\Pictures\\dk3kk33u.png"
+    },
+    {
+      "Id": "D:\\Evidence 9\\MasterDetailCrudApi\\MasterDetailCrudApi\\wwwroot\\Pictures\\dx5oud2n.png",
+      "PackagePath": "staticwebassets\\Pictures\\dx5oud2n.png"
+    },
+    {
+      "Id": "D:\\Evidence 9\\MasterDetailCrudApi\\MasterDetailCrudApi\\wwwroot\\Pictures\\ex4zpbhm.png",
+      "PackagePath": "staticwebassets\\Pictures\\ex4zpbhm.png"
+    },
+    {
+      "Id": "D:\\Evidence 9\\MasterDetailCrudApi\\MasterDetailCrudApi\\wwwroot\\Pictures\\p1f2t1sg.png",
+      "PackagePath": "staticwebassets\\Pictures\\p1f2t1sg.png"
+    },
+    {
+      "Id": "D:\\Evidence 9\\MasterDetailCrudApi\\MasterDetailCrudApi\\wwwroot\\Pictures\\z2ue1cmz.png",
+      "PackagePath": "staticwebassets\\Pictures\\z2ue1cmz.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MasterDetailCrudApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MasterDetailCrudApi.props",
+      "PackagePath": "build\\MasterDetailCrudApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MasterDetailCrudApi.props",
+      "PackagePath": "buildMultiTargeting\\MasterDetailCrudApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MasterDetailCrudApi.props",
+      "PackagePath": "buildTransitive\\MasterDetailCrudApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
